@@ -28,49 +28,7 @@ I enjoy building practical tools, experimenting with Linux, exploring low-level 
 
 ---
 
-## `02` — Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/KairoqX/Portable-LLM">
-<img src="https://img.shields.io/badge/PORTABLE--LLM-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-**Local AI. Without the setup headache.**
-
-A portable Windows launcher for running GGUF language models using llama.cpp. Designed to make local LLMs easier to carry and use without a traditional installation.
-
-`Python` `PowerShell` `llama.cpp` `GGUF`
-
-<br/>
-
-<a href="https://github.com/KairoqX/Kibo">
-<img src="https://img.shields.io/badge/KIBO-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-**A little companion for your development environment.**
-
-A lightweight desktop pet for developers, featuring a transparent floating window, animated vector character and interactions with development workflows.
-
-`Rust` `Tauri` `TypeScript` `React`
-
-<br/>
-
-<a href="https://github.com/KairoqX/KazeVault">
-<img src="https://img.shields.io/badge/KAZEVAULT-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-**Your data. Your machine. Your control.**
-
-A private, self-hosted vault for notes, journals, records and files, with an encrypted password manager, verified backups and optional local AI integration.
-
-`Python` `FastAPI` `SQLite` `SQLAlchemy`
-
-</div>
-
----
-
-## `03` — Technologies & Tools
+## `02` — Technologies & Tools
 
 <div align="center">
 
@@ -93,7 +51,7 @@ A private, self-hosted vault for notes, journals, records and files, with an enc
 
 ---
 
-## `04` — GitHub Activity
+## `03` — GitHub Activity
 
 <div align="center">
 
@@ -102,8 +60,6 @@ A private, self-hosted vault for notes, journals, records and files, with an enc
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KairoqX&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
-
-<!-- Contribution Streak — existing working card -->
 
 <!-- Contribution History Graph -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KairoqX&theme=github_dark" alt="GitHub Contribution History" />
@@ -117,7 +73,7 @@ A private, self-hosted vault for notes, journals, records and files, with an enc
 
 ---
 
-## `05` — Find Me Elsewhere
+## `04` — Find Me Elsewhere
 
 <div align="center">
 
@@ -129,6 +85,4 @@ A private, self-hosted vault for notes, journals, records and files, with an enc
 
 <br/>
 
-<sub>Designed with intention. Built with curiosity.</sub>
-
-</div>
+/div>
