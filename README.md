@@ -23,7 +23,7 @@ I enjoy building practical tools, experimenting with Linux, exploring low-level 
 
 - Currently exploring **C, Rust, AI/ML and systems programming**
 - Interested in operating systems, developer tools and automation
-- Daily environment: **Arch Linux**
+- I use **Arch** BTW
 - I prefer building things, breaking them, and understanding why they work.
 
 ---
@@ -98,22 +98,19 @@ A private, self-hosted vault for notes, journals, records and files, with an enc
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KairoqX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoqX&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=KairoqX&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KairoqX&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Contribution Streak -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=KairoqX&theme=transparent&hide_border=true&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777" alt="GitHub Contribution Streak" />
+<!-- Contribution Streak — existing working card -->
+
+<!-- Contribution History Graph -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KairoqX&theme=github_dark" alt="GitHub Contribution History" />
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KairoqX&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
-
-<br/>
-
-<!-- Contribution Snake -->
+<!-- Existing Contribution Snake -->
 <img width="100%" src="https://raw.githubusercontent.com/KairoqX/KairoqX/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
