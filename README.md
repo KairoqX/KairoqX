@@ -84,5 +84,3 @@ I enjoy building practical tools, experimenting with Linux, exploring low-level 
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kairoqx@proton.me)
 
 <br/>
-
-/div>
